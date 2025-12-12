@@ -31,17 +31,35 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/abs/10.1145/3719027.3744804)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Luming Yang**, Lin Liu, Junjie Huang, Zhuotao Liu, Shiyu Liang, Shaojing Fu, Yongjun Wang
+
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Xt7NczsAAAAJ&sortby=pubdate&citation_for_view=Xt7NczsAAAAJ:Se3iqnhoufwC
+) <strong><span class='show_paper_citations' data='Xt7NczsAAAAJ:Se3iqnhoufwC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/abs/10.1145/3719027.3744804)
+
+**Luming Yang**, Lin Liu, Junjie Huang, Zhuotao Liu, Shiyu Liang, Shaojing Fu, Yongjun Wang
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
