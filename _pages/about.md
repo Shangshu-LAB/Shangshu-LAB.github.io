@@ -59,9 +59,17 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 
 
-
+- [Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis](https://ieeexplore.ieee.org/document/11177602), **Luming Yang**, Lin Liu, Junjie Huang, Jiangyong Shi, Shaojing Fu, Yongjun Wang, Jinshu Su, TIFS 2025
+- [The Analysis of Encrypted Video Stream Based on Low-Dimensional Embedding Method](https://ieeexplore.ieee.org/document/10793092), **Luming Yang**, Shaojing Fu, Yongjun Wang, Lin Liu, Yuchuan Luo, TIFS 2025.
+- [ExpMD: an Explainable Framework for Traffic Identification Based on Multi-Domain Features](https://ieeexplore.ieee.org/document/10682894), **Luming Yang**, Yongjun Wang, Lin Liu, Junjie Huang, Shaojing Fu, IWQoS 2024.
+- [EVS2vec: A Low-dimensional Embedding Method for Encrypted Video Stream Analysis](https://ieeexplore.ieee.org/document/10287432), **Luming Yang**, Shaojing Fu, Yongjun Wang, Lin Liu, Yuchuan Luo, SECON 2023.
+- [FlowSpectrum: a concrete characterization scheme of network traffic behavior for anomaly detection](https://link.springer.com/article/10.1007/s11280-022-01057-8), **Luming Yang**, Shaojing Fu, Xuyun Zhang, Shize Guo, Yongjun Wang, Chi Yang, WWWJ 2022.
+- [DEV-ETA: An Interpretable Detection Framework for Encrypted Malicious Traffic](https://academic.oup.com/comjnl/article-abstract/66/5/1213/6543491), **Luming Yang**, Shaojing Fu, Yongjun Wang, Kaitai Liang, Fan Mo, Bo Liu, The Computer Journal 2023.
+- [A Clustering Method of Encrypted Video Traffic Based on Levenshtein Distance](https://ieeexplore.ieee.org/document/9751498), **Luming Yang**, Shaojing Fu, Yuchuan Luo, Yongjun Wang, Wentao Zhao, MSN 2021.
+- [Packet-Sequence and Byte-Distribution is Enough for Real-Time Identification of Application Traffic](https://ieeexplore.ieee.org/document/9644783), **Luming Yang**, Shaojing Fu, Yongjun Wang, Chao Li, Shanghuai Feng, Yuchuang Luo, Lin Liu, ISPA 2021.
+- [Markov Probability Fingerprints: A Method for Identifying Encrypted Video Traffic](https://ieeexplore.ieee.org/document/9394222), **Luming Yang**, Shaojing Fu, Yuchaun Luo, Jiangyong Shi, MSN 2020.
+- [Unsupervised Analysis of Encrypted Video Traffic Based on Levenshtein Distance](https://link.springer.com/chapter/10.1007/978-981-15-9031-3_9), **Luming Yang**, Yingming Zeng, Shaojing Fu, Yuchuan Luo, SocialSec 2020.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
