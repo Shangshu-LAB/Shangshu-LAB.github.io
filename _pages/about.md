@@ -39,7 +39,6 @@ I have published more than 100 papers at the top international AI conferences wi
 
 **Luming Yang**, Lin Liu, Junjie Huang, Zhuotao Liu, Shiyu Liang, Shaojing Fu, Yongjun Wang
 
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Xt7NczsAAAAJ&sortby=pubdate&citation_for_view=Xt7NczsAAAAJ:Se3iqnhoufwC
 ) <strong><span class='show_paper_citations' data='Xt7NczsAAAAJ:Se3iqnhoufwC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,8 +51,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 [unFlowS: An Unsupervised Construction Scheme of Flow Spectrum for Network Traffic Detection](https://ieeexplore.ieee.org/abstract/document/10919185)
 
-**Luming Yang**, Lin Liu, Junjie Huang, Zhuotao Liu, Shiyu Liang, Shaojing Fu, Yongjun Wang
-
+**Luming Yang**, Yongjun Wang, Lin Liu, Junjie Huang, Jiangyong Shi, Shaojing Fu, Shize Guo
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Xt7NczsAAAAJ&citation_for_view=Xt7NczsAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='Xt7NczsAAAAJ:UeHWp8X0CEIC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
