@@ -23,7 +23,7 @@ with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
 
 for author_pub_id in author['publications'].keys():
-    print(author_pub_id, author['publications'][author_pub_id]['bib']['title'])
+    # print(author_pub_id, author['publications'][author_pub_id]['bib']['title'])
     shieldio_data = {
         "schemaVersion": 1,
         "label": "citations",
