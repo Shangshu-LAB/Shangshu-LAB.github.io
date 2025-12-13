@@ -81,8 +81,8 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2025.09* CCF TCCOMM Outstanding Doctoral Dissertation Incentive Program. 
 
 # 📖 Educations
-- *2022.03 - 2025.06*, Doctor, Cyberspace Security, National University of Defense Technology, Changsha.
-- *2019.09 - 2022.12*, Master, Cyberspace Security, National University of Defense Technology, Changsha.
+- *2022.03 - 2025.06*, Doctor, Cyberspace Security, National University of Defense Technology, Changsha. (Supervised by Prof. Yongjun Wang)
+- *2019.09 - 2022.12*, Master, Cyberspace Security, National University of Defense Technology, Changsha. (Supervised by Prof. Shaojing Fu)
 - *2015.09 - 2019.06*, Bachelor, Information Security, National University of Defense Technology, Changsha.
 
 # 💬 Invited Talks
