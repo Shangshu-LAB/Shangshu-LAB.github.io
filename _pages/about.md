@@ -82,12 +82,12 @@ I have published more than 100 papers at the top international AI conferences wi
 - [Unsupervised Analysis of Encrypted Video Traffic Based on Levenshtein Distance](https://link.springer.com/chapter/10.1007/978-981-15-9031-3_9), **Luming Yang**, Yingming Zeng, Shaojing Fu, Yuchuan Luo, SocialSec 2020.<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FY0pCki6q_DkC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09* CCF TCCOMM Outstanding Doctoral Dissertation Incentive Program. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.03 - 2025.06*, Doctor, Cyberspace Security, National University of Defense Technology, Changsha.
+- *2019.09 - 2022.12*, Master, Cyberspace Security, National University of Defense Technology, Changsha.
+- *2015.09 - 2019.06*, Bachelor, Information Security, National University of Defense Technology, Changsha.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
