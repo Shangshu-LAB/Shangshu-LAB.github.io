@@ -42,6 +42,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 **Luming Yang**, Lin Liu, Junjie Huang, Zhuotao Liu, Shiyu Liang, Shaojing Fu, Yongjun Wang
 
+[Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance](https://www.researchgate.net/publication/356634317_Fast_Parameter-Free_Multi-View_Subspace_Clustering_With_Consensus_Anchor_Guidance) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper1.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 <a href='https://scholar.google.com/citations?user=Xt7NczsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper1.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 [ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/MM4flow)
