@@ -31,7 +31,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/MM4flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/abs/10.1145/3719027.3744804)
@@ -49,7 +49,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/unFlowS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [unFlowS: An Unsupervised Construction Scheme of Flow Spectrum for Network Traffic Detection](https://ieeexplore.ieee.org/abstract/document/10919185)
