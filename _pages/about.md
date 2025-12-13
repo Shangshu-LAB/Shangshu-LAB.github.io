@@ -24,10 +24,6 @@ My research interest includes encrypted traffic analysis, intrusion detection, n
 
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Xt7NczsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
-% <a href='https://scholar.google.com/citations?user=Xt7NczsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Xt7NczsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -43,7 +39,6 @@ I have published more than 100 papers at the top international AI conferences wi
 **Luming Yang**, Lin Liu, Junjie Huang, Zhuotao Liu, Shiyu Liang, Shaojing Fu, Yongjun Wang
 
 <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FSe3iqnhoufwC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-
 [ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/MM4flow)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Xt7NczsAAAAJ&sortby=pubdate&citation_for_view=Xt7NczsAAAAJ:Se3iqnhoufwC
@@ -61,7 +56,6 @@ I have published more than 100 papers at the top international AI conferences wi
 **Luming Yang**, Yongjun Wang, Lin Liu, Junjie Huang, Jiangyong Shi, Shaojing Fu, Shize Guo
 
 <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FUeHWp8X0CEIC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-
 [ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/unFlowS)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Xt7NczsAAAAJ&citation_for_view=Xt7NczsAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='Xt7NczsAAAAJ:UeHWp8X0CEIC'></span></strong>
