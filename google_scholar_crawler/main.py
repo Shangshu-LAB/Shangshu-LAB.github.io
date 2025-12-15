@@ -29,7 +29,7 @@ for author_pub_id in author['publications'].keys():
         "label": "citations",
         "message": f"{author['publications'][author_pub_id]['num_citations']}",
     }
-    print(shieldio_data)
-    print(f'results/{author_pub_id.split(":")[-1]}.json')
-    with open(f'results/{author_pub_id.split(":")[-1]}.json', 'w') as outfile:
-        json.dump(shieldio_data, outfile, ensure_ascii=False)
+    # print(shieldio_data)
+    # print(f'results/{author_pub_id.split(":")[-1]}.json')
+    # with open(f'results/{author_pub_id.split(":")[-1]}.json', 'w') as outfile:
+    #     json.dump(shieldio_data, outfile, ensure_ascii=False)
