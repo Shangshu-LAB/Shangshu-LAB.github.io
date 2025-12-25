@@ -22,7 +22,7 @@ I am currently an assistant researcher with the Academy of Military Science.
 
 My research interest includes encrypted traffic analysis, intrusion detection, network security and machine learning.
 
-I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Xt7NczsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
+I have published many papers at the conferences and journals about network security with total <a href='https://scholar.google.com/citations?user=Xt7NczsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 One paper on Network Threat Detection based on Flow Spectrum has been accepted by Journal of Software (CCF-A)!. 
