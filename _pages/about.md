@@ -58,15 +58,24 @@ I have published many papers at the conferences and journals about network secur
 **Luming Yang**, Yongjun Wang, Lin Liu, Junjie Huang, Jiangyong Shi, Shaojing Fu, Shize Guo
 [ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/unFlowS)
 <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FUeHWp8X0CEIC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/robustness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis](https://ieeexplore.ieee.org/document/11177602)
+
+**Luming Yang**, Lin Liu, Junjie Huang, Jiangyong Shi, Shaojing Fu, Yongjun Wang, Jinshu Su
+[ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/BERT-ps)
+<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FroLk4NBRz8UC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</div>
+</div>
 
 <!-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Xt7NczsAAAAJ&citation_for_view=Xt7NczsAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='Xt7NczsAAAAJ:UeHWp8X0CEIC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
---> 
-</div>
-</div>
-
 - `TIFS 2025` [Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis](https://ieeexplore.ieee.org/document/11177602), **Luming Yang**, Lin Liu, Junjie Huang, Jiangyong Shi, Shaojing Fu, Yongjun Wang, Jinshu Su, TIFS 2025. [ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/BERT-ps)<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FroLk4NBRz8UC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+-->
+
 - `TIFS 2025` [The Analysis of Encrypted Video Stream Based on Low-Dimensional Embedding Method](https://ieeexplore.ieee.org/document/10793092), **Luming Yang**, Shaojing Fu, Yongjun Wang, Lin Liu, Yuchuan Luo, TIFS 2025.<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FYsMSGLbcyi4C.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 - `IWQoS 2024` [ExpMD: an Explainable Framework for Traffic Identification Based on Multi-Domain Features](https://ieeexplore.ieee.org/document/10682894), **Luming Yang**, Yongjun Wang, Lin Liu, Junjie Huang, Shaojing Fu, IWQoS 2024. [ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/ExpMD)<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2F9yKSN-GCB0IC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 - `SECON 2023` [EVS2vec: A Low-dimensional Embedding Method for Encrypted Video Stream Analysis](https://ieeexplore.ieee.org/document/10287432), **Luming Yang**, Shaojing Fu, Yongjun Wang, Lin Liu, Yuchuan Luo, SECON 2023.<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FIjCSPb-OGe4C.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
