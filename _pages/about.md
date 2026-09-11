@@ -72,7 +72,7 @@ I have published many papers at the conferences and journals about network secur
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/robustness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOS 2025</div><img src='images/FlowSpectrum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Detection Theory and Application Based on Flow Spectrum for Network Traffic Threat](https://jos.org.cn/jos/article/abstract/7615)
