@@ -72,6 +72,16 @@ I have published many papers at the conferences and journals about network secur
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/robustness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Detection Theory and Application Based on Flow Spectrum for Network Traffic Threat](https://jos.org.cn/jos/article/abstract/7615)
+
+**Luming Yang**, Yongjun Wang\*, Lin Liu\*, Shaojing Fu, Baokang Zhao, Jinshu Su
+<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FroLk4NBRz8UC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</div>
+</div>
+
 <!-- 
 - `TIFS 2025` [Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis](https://ieeexplore.ieee.org/document/11177602), **Luming Yang**, Lin Liu, Junjie Huang, Jiangyong Shi, Shaojing Fu, Yongjun Wang, Jinshu Su, TIFS 2025. [ ![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Shangshu-LAB/BERT-ps)<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShangshu-LAB%2FShangshu-LAB.github.io@google-scholar-stats%2FroLk4NBRz8UC.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 -->
