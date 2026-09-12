@@ -76,7 +76,6 @@ I have published many papers at the conferences and journals about network secur
 <div class='paper-box-text' markdown="1">
 
 [Detection Theory and Application Based on Flow Spectrum for Network Traffic Threat](https://jos.org.cn/jos/article/abstract/7615)
-
 基于流谱的网络流量威胁检测理论及应用
 
 **Luming Yang**, Yongjun Wang\*, Lin Liu\*, Shaojing Fu, Baokang Zhao, Jinshu Su
